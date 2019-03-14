@@ -10,3 +10,21 @@ Why the project is useful: The luxury of using an application with a wide databa
 How users can get started with the project: What makes this such a successful project is the ability to show other people exactly how this was accomplished. First, users will want to get familiar with the platforms that they will be working with Dialogflow and Firebase Firestore. Along with learning about the platforms, knowing the difference between SQL and NoSQL and why using a relational database is important to use in this project. 
 Where users can get help with your project: Utilizing as much information on the platforms is important for base knowledge, but not everything has been explored or has not been documented to help to know what the next step may be. Ways that you can get help on this project as you go through it would be to follow the steps that have been documented here. 
 Who maintains and contributes to the project: The organization that will be monitoring this project is the ITS department at CSUSB and the 6 students in the Independent Research course. 
+
+## Project Overiew & Objective
+
+## Dialogflow
+
+### Overview
+
+### Configuring Dialogflow
+
+### Writing Fulfillment Code
+
+## Firebase
+
+### Overview
+
+### Setting up Firestore
+
+## Afterword

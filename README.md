@@ -17,6 +17,8 @@ Who maintains and contributes to the project: The organization that will be moni
 
 ### Overview
 
+### Terminology
+
 ### Configuring Dialogflow
 
 ### Writing Fulfillment Code
